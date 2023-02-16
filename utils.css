@@ -1,0 +1,10 @@
+
+.flex-all-center{display: flex;
+    justify-content: center;
+    align-items: center;}
+    .btn{
+    cursor: pointer;
+    padding: 5px 10px;
+    background-color: var(--main-bg-color);
+    color: white;
+}
